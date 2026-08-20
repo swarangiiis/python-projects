@@ -23,3 +23,4 @@ print(company.capitalize().title().swapcase())
 
 #Q9
 print(company[7:14])
+#hello welcome to my page this my first my video my first video of my content creation journey hope youll support me 
