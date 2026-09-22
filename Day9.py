@@ -124,3 +124,4 @@ if 'skills' in person:
             print('He is a fullstack developer')
 else:
       print('unknown title')
+
