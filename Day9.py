@@ -8,7 +8,7 @@ else:
 
 #Q2
 my_age=18
-your_age=int(input("Enter your Age:"))
+your_ageer your Age:"))
 
 if your_age>my_age:
     a=your_age-my_age
@@ -117,7 +117,7 @@ if 'skills' in person:
 #
 if 'skills' in person:
       if 'Javascript'and 'React' in person['skills']:
-            print('He is a frontend developer')
+            print('He is a fr=int(input("Entontend developer')
       if ['Node','Python', 'MongoDB'] in person['skills']:
             print('He is a backend developer')
       if ['React' ,'Node' ,'MongoDB'] in person['skills']:
